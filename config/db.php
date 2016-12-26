@@ -1,7 +1,7 @@
 <?php
 
 // Create connection
-$con = mysqli_connect("localhost", "nostalgi_admin", "simeon08@.!", "nostalgi_sajt");
+$con = mysqli_connect("localhost", "", "", "");
 // za kirilica od baza
 mysqli_query($con, "SET NAMES UTF8");
 // Check connection
