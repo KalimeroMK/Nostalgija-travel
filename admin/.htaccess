@@ -1,0 +1,7 @@
+<FilesMatch "\.(ico|pdf|jpg|jpeg|png|gif|html|htm|xml|txt|xsl)$">
+Header set Cache-Control "max-age=31536050"
+</FilesMatch>
+<FilesMatch "\.(css|js|jpg|png|gif)$">
+Header unset Cookie
+Header unset Set-Cookie
+</FilesMatch>

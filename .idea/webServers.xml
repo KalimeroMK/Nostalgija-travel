@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd9bb03b-cad4-4d37-889a-5014ffd111a3" name="nostalgija" url="http://nostalgijatravel.mk">
+        <fileTransfer host="nostalgijatravel.mk" port="21" rootFolder="/public_html/nostalgijatravel.mk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

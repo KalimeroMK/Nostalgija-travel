@@ -1,0 +1,3 @@
+User-Agent: Googlebot
+Sitemap: http://nostalgijatravel.mk/sitemap.xml
+
