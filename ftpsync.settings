@@ -4,10 +4,10 @@
 
 	"default": {
 
-		"host": "nostalgijatravel.mk",
-		"username": "nostalgijarecord",  // or null for anonymous login
-		"password": "h37I67fjpW",
-		"path": "/public_html/nostalgijatravel.mk",
+		"host": "",
+		"username": "",  // or null for anonymous login
+		"password": "",
+		"path": "",
 
 		"upload_on_save": true, // set *false* if you do not want to upload on save!
 
